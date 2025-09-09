@@ -10,16 +10,16 @@ title: Distant Reading Project
 
 I used Voyant to search this website! [Kristin Hannah Books](https://www.cornellsun.com/article/2025/02/reading-kristin-hannah)
 
-I learned what the top five most popular books are for Kristin Hannah and why.
+I learned about the top five most popular books by Kristin Hannah and why.
 
 Check out this image!
 
-![Kristin Hannah Words from Voyant](Kristin Hannah Books)
+![Kristin Hannah Words from Voyant](KristinHannahBooks.png)
 
 ---
-I also used Copolit with ChatGPT-5. Here is a bit of our conversation.
+I also used Copilot with ChatGPT-5. Here is a bit of our conversation.
 
-are these books considered the authors best?
+Are these books considered the author's best?
 Copilot said:
 Copilot
 Yes, the books mentioned in the Cornell Daily Sun article—The Nightingale, The Women, The Great Alone, and The Four Winds—are widely considered among Kristin Hannah’s best and most critically acclaimed works. Here's how they rank across multiple expert and fan sources:
