@@ -14,7 +14,7 @@ I learned about the top five most popular books by Kristin Hannah and why.
 
 Check out this image!
 
-[Kristin Hannah Words from Voyant](KristinHannahBooks.png)
+![Kristin Hannah Words from Voyant](KristinHannahBooks.png)
 
 ---
 I also used Copilot with ChatGPT-5. Here is a bit of our conversation.
