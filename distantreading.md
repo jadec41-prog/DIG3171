@@ -63,3 +63,6 @@ Known for its slow-burn mystery and emotional payoff
 Night Road – A gripping psychological drama about motherhood and tragedy
 Home Front – Explores the emotional toll of war on a military family
 Between Sisters and True Colors – Deep dives into sisterhood and family dynamics
+
+
+Both of these websites have their perks. I chose to analyze Kristin Hannah's most popular books. I think Voyant is geared toward more of a tech-savvy person who enjoys analytics. It doesn't give you the ability to ask or receive information, only a breakdown of the website. Copolit is more of a simplistic website to ask and receive straight-forward information. I think this website could be beneficial for anyone. 
