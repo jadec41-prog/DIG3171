@@ -18,8 +18,6 @@ Environmental psychologists emphasize that emotional connection to nature strong
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
-
 <style>
   .works-cited {
     margin-left: 2em;
