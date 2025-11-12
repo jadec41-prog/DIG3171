@@ -18,14 +18,6 @@ Environmental psychologists emphasize that emotional connection to nature strong
 
 # Works Cited
 
-<style>
-  .works-cited {
-    margin-left: 2em;
-    text-indent: -2em;
-    line-height: 1.5;
-  }
-</style>
-
 <p class="works-cited">
   Berto, Rita. “The Role of Nature in Coping with Psycho-Physiological Stress: A Literature Review on Restorative Environments.” Journal of Environmental Psychology, vol. 23, no. 1, 2003, pp. 67–78. 
 </p>
